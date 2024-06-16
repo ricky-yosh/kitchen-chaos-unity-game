@@ -70,3 +70,15 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 [Aa]ssets/[Ss]treamingAssets/aa.meta
 [Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Excluded binary files #!UBB!#
+*.wav
+*.wav.meta
+*.ogg
+*.ogg.meta
+*.mp3
+*.mp3.meta
+*.tga
+*.tga.meta
+*.psd
+*.psd.meta
